@@ -5,11 +5,11 @@
 <img width="217" alt="Screenshot 2022-08-12 at 21 12 52" src="https://user-images.githubusercontent.com/80685686/184467622-4d49d50b-9468-4732-8041-d38f6b821b42.png">
 
 To generate .a file:
-'''
+```
 make
-'''
+```
 
 To remove all object files and lib file:
-'''
+```
 make fclean
-'''
+```
