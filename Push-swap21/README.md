@@ -10,7 +10,7 @@ make
 ```
 To clean all:
 ```
-make  fclean
+make fclean
 ```
 
 To run visualizer:
