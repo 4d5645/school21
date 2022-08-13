@@ -12,12 +12,12 @@ To clean all:
 ```
 make  fclean
 ```
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/80685686/184468550-3433ce72-3dcd-47f0-a892-e728f9dd2f4e.gif)
 
 To run visualizer:
 ```
 python3 python_visualizer.py `ruby -e "puts (-10..50).to_a.shuffle.join(' ')"`
 ```
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/80685686/184468550-3433ce72-3dcd-47f0-a892-e728f9dd2f4e.gif)
 
 To check leaks: 
 ```
