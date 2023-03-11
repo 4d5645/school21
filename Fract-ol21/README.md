@@ -32,6 +32,19 @@ What can be clicked:
 ### Mandelbrot
 <img width="797" alt="Screenshot 2022-08-13 at 07 59 22" src="https://user-images.githubusercontent.com/80685686/184469328-6de6a805-4c8f-4344-b71e-8d4f5e4a6d08.png">
 
+
+```
+{
+"camera1.jpg":
+  [
+    [[x1, y1], [x2, y2], [x3, y3], [x4, y4]], 
+    [[x1, y1], [x2, y2], [x3, y3], [x4, y4]], 
+    [[x1, y1], [x2, y2], [x3, y3], [x4, y4]]
+  ]
+
+}
+```
+
 ### Julia
 <img width="801" alt="Screenshot 2022-08-13 at 07 59 51" src="https://user-images.githubusercontent.com/80685686/184469340-983c670f-b17a-4bb2-9495-ef5dd4c35145.png">
 
